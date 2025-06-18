@@ -2,21 +2,14 @@
 import dataJson from "../../data.json";
 ---
 
-<div
-  class="relative grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 text-color"
->
-  {
-    dataJson.skills && Object.entries(dataJson.skills).length > 0 ? Object.entries(dataJson.skills).map(([category, skillsArray]) => (
-      <div class="my-4 flex flex-col gap-2">
-        <h3 class="text-xl font-semibold capitalize">{category}</h3>
-        <div class="flex flex-col border-l border-gray-400 ml-3">
-          {skillsArray.map((skill) => (
-            <span class="px-6 py-1">{skill}</span>
-          ))}
-        </div>
+<div class="skills-row flex flex-wrap gap-2">
+  {dataJson.skills && dataJson.skills.length > 0 ? (
+    dataJson.skills.map((skill) => (
+      <div class="skill-box bg-black text-white rounded-md px-3 py-1 text-sm">
+        {skill}
       </div>
-    )) : (
-      <p class="text-color opacity-70 col-span-4">No skills data available</p>
-    )
-  }
+    ))
+  ) : (
+    <p class="text-color opacity-70">No skills data available</p>
+  )}
 </div>

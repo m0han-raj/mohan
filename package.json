@@ -16,7 +16,7 @@
     "@rollup/plugin-yaml": "^4.1.2",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
-    "astro": "5.2.2",
+    "astro": "^4.10.1",
     "astro-lenis": "^1.0.0",
     "lenis": "^1.1.20",
     "react": "^18.3.1",

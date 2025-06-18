@@ -6,7 +6,7 @@ import Socials from "../components/Socials.astro";
 import Theme from "../components/Theme.astro";
 import ProjectsGrid from "../components/ProjectsGrid.astro";
 import { IoIosArrowRoundForward } from "react-icons/io";
-import { FaGithub, FaMapPin } from "react-icons/fa6";
+import { FaMapPin } from "react-icons/fa6";
 import Skills from "../components/Skills.astro";
 import Acheivements from "../components/Acheivements.astro";
 
@@ -231,21 +231,7 @@ const data: GitHubQueryResponse = await graph.json();
           </div>
         </section>
 
-        <div class="py-12 flex justify-between items-center border-t border-border border-opacity-30">
-          <p>
-            Made from a template, By <a
-              href="https://marban.is-a.dev"
-              target="_blank">Marban</a
-            >
-          </p>
-          <a
-            href="https://github.com/rahuletto/researchfolio"
-            target="_blank"
-            class="text-color text-xl"
-          >
-            <FaGithub /></a
-          >
-        </div>
+       
       </div>
     </div>
   </main>

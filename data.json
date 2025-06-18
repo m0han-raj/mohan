@@ -1,67 +1,46 @@
 {
-  "name": "Rahul Marban",
-  "email": "rahulmarban@gmail.com",
+  "name": "Mohan Raj",
+  "email": "mohan.work23@gmail.com",
   "biography": "",
-  "phone": "",
+  "phone": "+91 87781 03962",
   "links": {
     "github": "",
     "twitter": "",
     "linkedin": ""
   },
-  "resume": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Rahuletto/auto-resume/main/resume.pdf",
-  "github": "https://github.com/rahuletto",
+  "resume": "https://drive.google.com/file/d/1niD8nG2Pzsmo3rAgco0L_MY8YER-JihW/view?usp=sharing",
+  "github": "https://github.com/m0han-raj",
   "location": "India",
-  "linkedin": "https://www.linkedin.com/in/rahul-marban",
+  "linkedin": "https://drive.google.com/file/d/1niD8nG2Pzsmo3rAgco0L_MY8YER-JihW/view?usp=sharing",
   "experience": [
     {
-      "companyName": "SRM Innovation and Incubation Centre",
-      "companyURL": "https://www.linkedin.com/school/srmdei/",
-      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFMgg5KrYsRNg/company-logo_400_400/company-logo_400_400/0/1728041468017/srmdei_logo?e=1746662400&v=beta&t=hRYCid5pES8TNGqPaAp6bQWR3fxK_TQlbC7ffdIBfdk",
-      "title": "Frontend Developer Intern",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "- Revamped over 60 web pages to modernize the website, elevating user engagement and ensuring an intuitive interface that resulted in a measurable increase in user satisfaction metrics gathered through post-launch surveys.\n- Collaborated with a small team of 2 developers over 6 months to deliver a high-quality web solution.\n- Maintained consistent communication to gather requirements, provide updates, and successfully developed 3+ websites.",
+      "companyName": "IIT Patna",
+      "companyURL": "https://www.iitp.ac.in/",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/en/5/52/Indian_Institute_of_Technology%2C_Patna.svg",
+      "title": "Research Intern",
+      "location": "Patna, Bihar, India",
+      "description": "focused on optimizing Figure of Merit (FOM) photonic sensors by analyzing their parameters and introducing a new lemma to improve accuracy. Extensive research into the figure of merit (FOM), thickness and wavelength of photonic sensors to improve their performance",
       "employmentType": "Internship",
       "start": {
         "year": 2025,
-        "month": 1,
+        "month": 5,
         "day": 0
       },
       "end": {
-        "year": 0,
-        "month": 0,
+        "year": 2025,
+        "month": 7,
         "day": 0
       }
     },
     {
 
-      "companyName": "Turn2Law",
-
-      "companyURL": "https://www.linkedin.com/company/turn2law/",
-      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHTGous8H7fCw/company-logo_400_400/company-logo_400_400/0/1731761473493?e=1746662400&v=beta&t=OLHrk9npPiVQIgeaXkUKixr3eBPJR_6be_YbXBS-7Ds",
+      "companyName": "SRM Institute of Science and Technology",
+      "companyLogo": "https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo.png",
 
 
-      "title": "Chief Design Officer",
+      "title": "Undergraduate Student Researcher",
       "location": "Chennai, Tamil Nadu, India",
-      "description": "- Led the creative direction for a team of 5+ designers and developers, ensuring alignment with brand vision and user needs.\n-  Transformed the platform\u2019s UI/UX by designing intuitive navigation features, leading to a 20% surge in user engagement and enhanced customer satisfaction metrics based on direct feedback from usability testing sessions.",
-      "employmentType": "Full-time",
-      "start": {
-        "year": 2024,
-        "month": 11,
-        "day": 0
-      },
-      "end": {
-        "year": 0,
-        "month": 0,
-        "day": 0
-      }
-    },
-    {
-      "companyName": "Neugence Technology Pvt Ltd",
-      "companyURL": "https://www.linkedin.com/company/neugence/",
-      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQG6Tea7MQS1Sw/company-logo_400_400/company-logo_400_400/0/1733347950531/neugence_logo?e=1746662400&v=beta&t=0IumQsy4v8b_FZKGeMVVTXeAfMOJKRxc-IV_EOLVGWM",
-      "title": "Full Stack Software Development Intern",
-      "location": "Remote",
-      "description": "- Evolved and launched 2 fully functional websites as a frontend developer, ensuring seamless user experiences and adherence to project deadlines.\n- Tailored and implemented responsive web designs, increasing user engagement by 38% through refined accessibility and cross-device compatibility.\n- Migrated the entire codebase to Vite, reducing development cycle times by 25%, resulting in faster feature delivery and team productivity better than before.",
+      "description": "Research on multiple adversarialXAI techniques with various adversarial attacks , the Adversarial Robustness of XAI models and the Adversarial Robustness of XAI models with various adversarial attacks",
       "employmentType": "Internship",
       "start": {
         "year": 2024,
@@ -77,33 +56,14 @@
     {
       "companyName": "Next Tech Lab",
       "companyURL": "https://www.linkedin.com/company/next-tech-lab/",
-      "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQGikFtlBr3v3A/company-logo_400_400/company-logo_400_400/0/1631390746546?e=1746662400&v=beta&t=QrjA5Uy10d7O1w2YQOe0en0ptB7LKnljyZBnCnFhk7c",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEwpFYx_mwAW5kl_KMn3wZ6eIqFjKSAw5eQ&s",
       "companyIndustry": "Research",
-      "title": "Associate - Norman Lab",
+      "title": "Associate - McCarthy Lab",
       "location": "Chennai, Tamil Nadu, India",
-      "description": "Led the development of the admin portal for NextTech Lab, ensuring robust architecture and smooth user experiences, resulting in a 25% improvement in task completion time. Utilised modern frameworks to deliver scalable and maintainable code, supporting future scalability for up to 1000+ users.",
+      "description": "Contributing to the research and development for machine learning , deep learning and artificial intelligence projects , Learning and implementing various machine learning and deep learning models and algorithms",
       "employmentType": "Full-time",
       "start": {
-        "year": 2024,
-        "month": 8,
-        "day": 0
-      },
-      "end": {
-        "year": 0,
-        "month": 0,
-        "day": 0
-      }
-    },
-    {
-      "companyName": "Google Developer Student Clubs SRM",
-      "companyURL": "https://www.linkedin.com/company/gdgsrm/",
-      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHtS3OdZ0Kr8Q/company-logo_400_400/company-logo_400_400/0/1630624490752?e=1746662400&v=beta&t=zngILU4xzVqlmMhfzx2KlVgbR0R7gAU-bCgWGBme88o",
-      "title": "Technical Member",
-      "location": "SRM University, Kattankulathur",
-      "description": "Contributed to the GDSC website redevelopment project using Next.js and TypeScript, resulting in a 15% reduction in page load times.\n- Focused on optimising code quality and optimising the code, making a ~20% improvement in overall performance metrics",
-      "employmentType": "Full-time",
-      "start": {
-        "year": 2024,
+        "year": 2025,
         "month": 4,
         "day": 0
       },
@@ -114,74 +74,46 @@
       }
     },
     {
-      "companyName": "Microsoft Learn Student Ambassadors SRM",
-      "companyURL": "https://www.linkedin.com/company/mlsa-srm/",
-      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEq8dvxYn2RYw/company-logo_400_400/company-logo_400_400/0/1630624717682/mspc_srm_logo?e=1746662400&v=beta&t=Es5akjunaPxxBf2BAbTlVu87okyHkvPElm5DevLhjjQ",
-      "title": "Technical Associate",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
+      "companyName": "CINTEL's Next-Gen AI",
+      "companyURL": "https://www.srmist.edu.in/department/department-of-computational-intelligence/nextgen-al/",
+      "companyLogo": "https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/05/2-2.png",
+      "title": "Technical Member",
+      "location": "SRM University, Kattankulathur",
+      "description": "Contributed by teaching and helping the club memebers to get a clear clarity on Machine learning and artificial intelligence.\n- Focused on improving research skills and knowledge of the club members",
       "employmentType": "Full-time",
       "start": {
-        "year": 2023,
+        "year": 2024,
         "month": 9,
         "day": 0
       },
       "end": {
-        "year": 2024,
-        "month": 10,
-        "day": 0
-      }
-    },
-    {
-      "companyName": "Dreamnity",
-      "companyURL": "https://www.linkedin.com/company/dreamnity/",
-      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFC5-Yrw4o_Tw/company-logo_400_400/company-logo_400_400/0/1718265329081/dreamnity_logo?e=1746662400&v=beta&t=UQhXmpRp6D5Dl5Swy8P9G0qUMn50nN14-pn85WbhIx8",
-      "title": "Co-Founder and CTO",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "Lead the technical direction of the startup with 5+ employees, leading a team to develop Dreamnity and maintain high-quality deliverables.",
-      "employmentType": "Full-time",
-      "start": {
-        "year": 2023,
-        "month": 5,
-        "day": 0
-      },
-      "end": {
-        "year": 2024,
-        "month": 6,
+        "year": 0,
+        "month": 0,
         "day": 0
       }
     }
   ],
-  "skills": {
-    "frontend": [
-      "HTML & CSS",
-      "JavaScript",
-      "React",
-      "Typescript",
-      "Astro",
-      "NextJS",
-      "SolidJS",
-      "Fresh"
-    ],
-    "backend": ["Node.js", "Deno", "Express", "Hono", "ElysiaJS", "FastAPI"],
-    "database": ["MongoDB", "MySql", "Postgres", "Firebase", "Supabase", "Cloudflare D1"],
-    "others": ["Python", "Java", "C++", "C", "Cheerio", "React Native"]
-  },
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Tensorflow",
+    "Pandas",
+    "Langchain",
+    "VectorDB",
+    "C++",
+    "Java",
+    "ReactJS"
+  ],
   "acheivements": [
     {
-      "title": "Hackathon Winner - Hack4Bengal",
-      "description": "Won first place in Hack4Bengal 2.0 hackathon for innovative solution",
-      "date": "Jul 2023"
+      "title": "Hackathon Winner - DevsHouse'25",
+      "description": "Won third place in DevsHouse'25 a national level hackathon conducted in VIT Chennai ,  We won for creating a project based on self-destructive contracts and anomaly detection",
+      "date": "March 2023"
     },
     {
-      "title": "Research Paper Publication",
-      "description": "Published research paper on AI-driven web development in IEEE conference",
-      "date": "Dec 2023"
-    },
-    {
-      "title": "Open Source Contributor",
-      "description": "Active contributor to various open source projects with over 50+ contributions",
-      "date": "2023-2024"
+      "title": "Hackathon Winner - hackTrax'25",
+      "description": "Developed a RAG based chabot that has several features like search engines and legal assistants in order to help and support women protection",
+      "date": "March 2023"
     }
   ]
 }
