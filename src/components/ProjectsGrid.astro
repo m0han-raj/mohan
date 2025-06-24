@@ -37,7 +37,7 @@ const { repositories } = Astro.props;
   ))}
 </div>
 
-<script type="application/json" id="repositories-data">
+<script is:inline type="application/json" id="repositories-data">
     {Astro.toJson(repositories)}
 </script>
 
