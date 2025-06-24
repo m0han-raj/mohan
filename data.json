@@ -115,5 +115,10 @@
       "description": "Developed a RAG based chabot that has several features like search engines and legal assistants in order to help and support women protection",
       "date": "March 2023"
     }
+  ],
+  "selectedRepositories": [
+    "repo1",
+    "repo2",
+    "repo3"
   ]
 }

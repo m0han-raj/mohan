@@ -159,7 +159,7 @@ const data: GitHubQueryResponse = await graph.json();
           </a>
 
           <ProjectsGrid
-            repositories={data.data.user?.repositories?.nodes.slice(0, 9)}
+            repositories={data.data.user?.repositories?.nodes.filter(repo => dataJson.selectedRepositories.includes(repo.name))}
           />
         </section>
         {dataJson.experience && dataJson.experience.length > 0 && (
