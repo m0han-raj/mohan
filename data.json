@@ -117,8 +117,11 @@
     }
   ],
   "selectedRepositories": [
-    "repo1",
-    "repo2",
-    "repo3"
+    "lifelong-LLM-agents",
+    "medplus",
+    "MedivUe",
+    "EN2DE-Transformer",
+    "Solar",
+    "ResNet34"
   ]
 }
