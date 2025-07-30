@@ -122,6 +122,7 @@
     "MedivUe",
     "EN2DE-Transformer",
     "Solar",
-    "ResNet34"
+    "ResNet34",
+    "ReAct-reasoning-and-acting"
   ]
 }
