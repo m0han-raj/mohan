@@ -89,7 +89,14 @@ const graph = await fetch("https://api.github.com/graphql", {
   }),
 });
 
-const data: GitHubQueryResponse = await graph.json();
+const response = await graph.json();
+
+if (!response || !response.data || !response.data.user) {
+  throw new Error("GitHub API request failed or user data not found.");
+}
+
+const data: GitHubQueryResponse = response;
+
 ---
 
 <Layout title={dataJson.name}>
